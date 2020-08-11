@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t4pIj3qp1mxzaB4+pDM2MdwPt6UZDjEUpdn2Z1xyEWB4Oud1irAyxrYdZHAmyr51Oqq+tzKCBzdTDxkhqaN2Rw==",
+  "success": true,
+  "projectFilePath": "/Users/waylon/Workspace/Programming Language/F#/MyFirstFSProj/MyFirstFSProj/MyFirstFSProj.fsproj",
+  "expectedPackageFiles": [
+    "/Users/waylon/.nuget/packages/fsharp.core/4.5.2/fsharp.core.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

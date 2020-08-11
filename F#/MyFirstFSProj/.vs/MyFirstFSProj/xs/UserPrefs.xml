@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{3E1CA92C-BC22-43E7-ABFF-47B05A117E82}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyFirstFSProj/Program.fs">
+    <Files>
+      <File FileName="MyFirstFSProj/Program.fs" Line="5" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyFirstFSProj" expanded="True">
+            <Node name="MyFirstFSProj" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MyFirstFSProj PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
