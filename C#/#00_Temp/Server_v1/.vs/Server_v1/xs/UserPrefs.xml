@@ -1,0 +1,33 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Server_v1/Network/CallBack/Database_CallBack.cs">
+    <Files>
+      <File FileName="Server_v1/Server.cs" Line="425" Column="1" />
+      <File FileName="Server_v1/Network/CallBack/Database_CallBack.cs" Line="42" Column="13" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Server_v1" expanded="True">
+            <Node name="Server_v1" expanded="True">
+              <Node name="Database" expanded="True">
+                <Node name="Database.cs" selected="True" />
+              </Node>
+              <Node name="Network" expanded="True">
+                <Node name="CallBack" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Server__v1 FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/waylon/Workspace/Program/C# Library/Server_v1/Server_v1/Network/CallBack/Packet_CallBack.cs" relfile="Server_v1/Network/CallBack/Packet_CallBack.cs" line="40" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,8 @@
+/Users/waylon/Workspace/Programming Languages/C#/#00_Temp/Testing/DatabaseTesting/bin/Release/netcoreapp3.1/DatabaseTesting.deps.json
+/Users/waylon/Workspace/Programming Languages/C#/#00_Temp/Testing/DatabaseTesting/bin/Release/netcoreapp3.1/DatabaseTesting.dll
+/Users/waylon/Workspace/Programming Languages/C#/#00_Temp/Testing/DatabaseTesting/bin/Release/netcoreapp3.1/DatabaseTesting.pdb
+/Users/waylon/Workspace/Programming Languages/C#/#00_Temp/Testing/DatabaseTesting/obj/Release/netcoreapp3.1/DatabaseTesting.AssemblyInfoInputs.cache
+/Users/waylon/Workspace/Programming Languages/C#/#00_Temp/Testing/DatabaseTesting/obj/Release/netcoreapp3.1/DatabaseTesting.AssemblyInfo.cs
+/Users/waylon/Workspace/Programming Languages/C#/#00_Temp/Testing/DatabaseTesting/obj/Release/netcoreapp3.1/DatabaseTesting.csproj.CoreCompileInputs.cache
+/Users/waylon/Workspace/Programming Languages/C#/#00_Temp/Testing/DatabaseTesting/obj/Release/netcoreapp3.1/DatabaseTesting.dll
+/Users/waylon/Workspace/Programming Languages/C#/#00_Temp/Testing/DatabaseTesting/obj/Release/netcoreapp3.1/DatabaseTesting.pdb
